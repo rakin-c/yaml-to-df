@@ -1,4 +1,4 @@
-# yaml-to-json
+# yaml-to-df
 A simple script containing a function to be able to read a yaml file into a pandas dataframe via converting it into json format.
 
 In order to use this function, download the rad_yaml.py file and import it into your python program.
